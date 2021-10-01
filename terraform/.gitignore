@@ -1,0 +1,11 @@
+# Terraform files
+**/.terraform
+**/.idea
+**/tf_bin_plan.bin
+**/tf_txt_plan.txt
+**/*.tfstate
+**/*.tfstate.backup
+**/.terraform*
+.git/
+root-module/.terraform/
+.idea/
